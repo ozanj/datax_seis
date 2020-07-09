@@ -36,10 +36,6 @@ DataX will increase the analytic capabilities of researchers, graduate students,
 
 More broadly, developing the data science methodological coursework benefit SEIS students and the social justice oriented research and outreach projects they contribute to. For example, several SEIS graduate students who completed the two-course "fundamentals of programming using R" sequence have GSR positions analyzing data from the [UCLA Community School](https://uclacs.org/). After completing the courses, these students fundamentally improved data quality and efficiency by writing *R* scripts that create analysis variables used across many analyses. Additionally, the informal [Advanced R](https://adv-r.hadley.nz/) summer reading group is an offshoot of the nascent *R* programming sequence. To practice the programming skills they were learning, the reading group prepared data and graphs for a group of CU-Boulder alumni seeking to put pressure on the university to enroll more African American students.
 
-
-
-As an offshoot of the nascent *R* programming sequence, students and faculty developed an . To practice 
-
 # Appendices {-}
 
 ## Appendix A: Curriculum {#curriculum -}
