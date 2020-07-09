@@ -2,12 +2,14 @@
 title: "SE&IS White Paper on the UCLA DataX Initiative"
 author: Gregory Leazer & Ozan Jaquette
 date: July 7, 2020
-output: pdf_document
-# output:
-#   bookdown::html_document2:
-#     toc: yes
-#     toc_depth: 3
-#     toc_float: true
+# output: pdf_document
+# urlcolor: blue
+# linkcolor: blue
+output:
+  bookdown::html_document2:
+    toc: yes
+    toc_depth: 3
+    toc_float: true
 ---
 
 ```{r setup, include=FALSE}
@@ -39,9 +41,10 @@ Education brings its expertise into the training of teachers, administrators, an
 We would like to see the existing courses reach a wider population of students across the University and organize these into year-long sequences to serve a range of purposes. A list of existing courses and short descriptions is below with an outline for consolidating these into a high-impact program of offerings across the curriculum (* to be developed or modified from an existing course):
 
 Partners [WHERE/HOW SHOULD CURRICULUM PARTNERS BE LISTED?]
-Luskin
-Library, esp. Data Science Center
-DH
+
+- Luskin
+- Library, esp. Data Science Center
+- DH
 
 ### A1: Undergraduate major {#undergraduate-major -}
 
@@ -93,7 +96,9 @@ Description and emphasize new minor as a demonstration of departments working to
 
 **Critical Digital Media Literacies**
 
-#### A2.1: GE courses {#ge-courses -}
+#### A2.1: GE courses [NOT SURE IF THIS IS MEANT TO BE SUBHEADING A2.1?] {#ge-courses -}
+
+[ARE BELOW 3 ALSO COURSES OR JUST CATEGORIES?]
 
 Arts and Humanities
 
@@ -101,29 +106,25 @@ Society and Culture
 
 Scientific Inquiry
 
-Data Science for Everyone. An absolute zero entry course – no pre-reqs. Aimed at getting basic data science concepts out into the general student population beyond Data Science majors. It is a more accessible version of the [Berkeley Data 8](http://data8.org/) class with policy and critical concepts.  Perhaps a year-long sequence of courses, divided along GE components?
+- **Data Science for Everyone**: An absolute zero entry course with no pre-requisites, aimed at getting basic data science concepts out into the general student population beyond Data Science majors. It is a more accessible version of the [Berkeley Data 8](http://data8.org/) class with policy and critical concepts. Perhaps a year-long sequence of courses, divided along GE components?
+- **Data Studies Ethics & Policy**: Fulfills Society and Culture breadth requirement and undergraduate writing requirement. Aimed at Data Science majors, but anyone can take this course (no pre-requisites).
+- **Data Visualization and Communications**: Fulfills the Arts/Humanities GE requirement
+- **Database Management for Data Science**: Focuses on relational database design, data cleaning, no SQL database
+- **Intro to Text Mining** or other DH/IR data concepts
 
-Data Studies Ethics & Policy (fulfills Society and Culture breadth requirement and undergraduate writing requirement) Aimed at Data Science majors, but anyone can take. No pre-reqs.
-
-Data Visualization and Communications (fulfills the Arts/Humanities GE requirement)
-
-Database Management for Data Science (relational database design, data cleaning, no SQL database)
-
-Intro Text Mining, or other DH/IR data concepts
-
-Much of this could be drawn from re-adapted current IS UG courses and the new Literacy UC minor
+Much of this could be drawn from re-adapted current IS UG courses and the new Literacy UC minor.
 
 ### A3: Professional masters {#professional-masters -}
 
-Separate from MLIS but building elements from the MLIS but clearly distinguished
-
-A new professional degree 
+- A separate program from MLIS, but building on elements from the MLIS
+- A new professional degree 
 
 ### A4: Summer institutes {#summer-institutes -}
 
-Focused on techniques and discrete topics for alums from our various programs, others
+- Focused on techniques and discrete topics for alumni from our various programs
+- California Rare Book School (CalRBS) specialization or certificate in Data Ethics? Data Management and Ethics? Data, Society, and Justice? Critical Data Studies?
 
-California Rare Book School (CalRBS) specialization or certificate in Data Ethics? Data Management and Ethics? Data, Society, and Justice? Critical Data Studies?
+[SHOULD BELOW COURSES BE MOVED TO RESPECTIVE SECTIONS ABOVE?]
 
 GE courses currently taught within Information Studies:
 
@@ -159,17 +160,17 @@ Professional
 - Knowledge extraction processes*
 - Trust, reliability, authenticity and issues data curation and use
 - Recordkeeping metadata creation and management
-- Computational approaches to Archival Science
-- Digital Preservation/ Digital Curation
-- Sustainability in Information Professions 
+- Computational approaches to archival science
+- Digital preservation/digital curation
+- Sustainability in information professions 
 
 Places where we work [WHAT IS THIS LIST REFERRING TO?]
 
-JPL
-LAPL
-LAUSD, partner schools, Lab School
-SAADA, etc.
-CRESST partners
+- JPL
+- LAPL
+- LAUSD, partner schools, Lab School
+- SAADA, etc.
+- CRESST partners: Evaluation, assessment, and measurement, particularly in the areas of psychometrics and education
 
 
 ## Appendix B: Research, Centers, Partnerships, and Outreach {#research -}
@@ -177,13 +178,9 @@ CRESST partners
 ITEMS TO ALLOCATE SOMWHERE [BUT DELETE IF DUPLICATE]
 
 - Community-based archives
-- Data for Democracy (Center X)
 - POI or C2I2 or DH
-- CRESST: Evaluation, assessment and measurement, particularly in the areas of psychometrics and education.
 - Ozan: https://www.nytimes.com/interactive/2018/04/13/opinion/college-recruitment-rich-white.html
-- C2I2
 - Borgman stuff
-- Data for Democracy project
 
 Institutes [NOT SURE WHAT THESE ARE]
 
